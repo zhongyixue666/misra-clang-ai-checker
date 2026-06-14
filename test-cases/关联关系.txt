@@ -1,0 +1,14 @@
+MISRA——7_3——R_7_3_violate.c——报出MISRA.7_3缺陷
+MISRA——7_3——R_7_3_comply.c——不应报出MISRA.7_3缺陷
+MISRA——7_3——R_7_3_fn.c——报出MISRA.7_3缺陷
+MISRA——7_3——R_7_3_fp.c——不应报出MISRA.7_3缺陷
+
+MISRA——15_5——R_15_5_violate.c——报出MISRA.15_5缺陷
+MISRA——15_5——R_15_5_comply.c——不应报出MISRA.15_5缺陷
+MISRA——15_5——R_15_5_fn.c——报出MISRA.15_5缺陷
+MISRA——15_5——R_15_5_fp.c——不应报出MISRA.15_5缺陷
+
+MISRA——17_4——R_17_4_violate.c——报出MISRA.17_4缺陷
+MISRA——17_4——R_17_4_comply.c——不应报出MISRA.17_4缺陷
+MISRA——17_4——R_17_4_fn.c——报出MISRA.17_4缺陷
+MISRA——17_4——R_17_4_fp.c——不应报出MISRA.17_4缺陷
